@@ -12,4 +12,4 @@ Generates a realistic 10-year synthetic SCADA dataset (hourly readings) for the 
 **Task 3 - Physics Feature Pipeline:**
 Applies `PhysicsFeaturePipeline` to the synthetic data to enrich raw SCADA with physics-informed features and computes monthly average corrosion rates.
 **Task 4 - RUL & Risk Classification:**
-Calculates Remaining Useful Life for each of the 6 jumpers from the case study. Produces RUL vs. Corrosion Rate visualization with colour-coded risk classi
+Calculates Remaining Useful Life for each of the 6 jumpers from the case study. Produces RUL vs. Corrosion Rate visualization with colour-coded risk classification(Low / Medium / High / Critical).
